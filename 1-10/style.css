@@ -277,6 +277,10 @@ footer {
     display: block;
   }
 
+  .main-visual-content {
+    width: 100%;
+  }
+
   .instagram-box {
     width: 48%;
     padding-top: 48%;
